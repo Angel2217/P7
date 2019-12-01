@@ -1,0 +1,42 @@
+[
+   {
+      "restaurantName":"La Cantina",
+      "address":"Via Giovanni Pascoli 6, 65012 Villanova",
+      "lat":42.384903,
+      "long":14.124824,
+      "ratings":[
+         {
+            "stars":4,
+            "comment":"Great! But not many veggie options."
+         },
+         {
+            "stars":5,
+            "comment":"My favorite restaurant!"
+         },
+         {
+            "stars":2,
+            "comment":"Nothing special."
+         },
+         {
+            "stars":4,
+            "comment":"Very good!"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Re Carlo",
+      "address":"Via Torino, 65012 Villanova",
+      "lat":42.38095,
+      "long":14.12148,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Tiny pizzeria next to Sacre Coeur!"
+         },
+         {
+            "stars":3,
+            "comment":"Meh, it was fine."
+         }
+      ]
+   }
+]
